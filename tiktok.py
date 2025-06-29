@@ -6,12 +6,12 @@ from TikTokLive.events import ConnectEvent, CommentEvent, GiftEvent, ShareEvent
 
 # ======= Config =======
 
-tiktok_username = "dinu_shay"
+tiktok_username = "TikTok name"
 
-twitch_access_token = "zb6iocauedpvtbp9t2taidrgeojwpb" # https://twitchtokengenerator.com/quick/CovjkGKZkF
-twitch_client_id = "gp762nuuoqcoxypju8c569th9wz7q5"
-twitch_broadcaster_id = "480764971" # https://www.streamweasels.com/tools/convert-twitch-username-%20to-user-id/
-twitch_sender_id = "1327654790"
+twitch_access_token = "token from token generator" # https://twitchtokengenerator.com/quick/CovjkGKZkF
+twitch_client_id = "id from token generator"
+twitch_broadcaster_id = "broadcaster account id" # https://www.streamweasels.com/tools/convert-twitch-username-to-user-id
+twitch_sender_id = "sender account id"
 
 show_twitch_debug = False
 
